@@ -1,0 +1,9 @@
+{ 
+  "provider": "CURSE",
+  "id": "just-enough-resources-jer",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ]
+}

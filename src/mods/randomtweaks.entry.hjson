@@ -1,0 +1,9 @@
+{ 
+  "provider": "CURSE",
+  "id": "randomtweaks",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ]
+}

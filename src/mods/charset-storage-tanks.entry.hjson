@@ -1,0 +1,9 @@
+{ 
+  "provider": "CURSE",
+  "id": "charset-storage-tanks",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ]
+}

@@ -1,0 +1,9 @@
+{ 
+  "provider": "CURSE",
+  "id": "random-things",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ]
+}

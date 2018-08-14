@@ -1,0 +1,108 @@
+title: Hosenlab2
+id: hosenlab2
+mcVersion: 1.12.2
+forge: 2750
+authors: 
+    - canitzp
+version: 1.0.0
+sourceDir: src
+root:
+    validMcVersions: 
+        - 1.12.2
+        - 1.12.1
+        - 1.12
+    curseOptionalDependencies: false
+    curseReleaseTypes: [beta, release]
+    provider: CURSE
+    entries:
+    - actually-additions
+    - animania
+    - auto-crafter
+    - auto-feeder-helmet
+    - autopackager
+    - bedrockores
+    - better-foliage
+    - better-invisibility
+    - biome-bundle
+    -   id: binnies-mods
+        curseReleaseTypes: [alpha, beta, release]
+    - bonsai-trees
+    - charset-block-carrying
+    - charset-crafting
+    - charset-storage-tanks
+    - chisel
+    - chisels-bits
+    - cooking-for-blockheads
+    - crafttweaker
+    - custom-main-menu
+    - cyclic
+    - decocraft2
+    - douglas-forest
+    - ender-io
+    - expanded-industry
+    - extra-bit-manipulation
+    - extra-utilities
+    - farming-for-blockheads
+    - fastworkbench
+    - floodlights
+    - foamfix-for-minecraft
+    - forestry
+    - industrial-craft
+    - industrial-foregoing
+    - inventory-pets
+    - inventory-tweaks
+    - iron-backpacks
+    - itemphysic
+    - jei
+    - jei-bees
+    - just-enough-harvestcraft
+    - jei-integration
+    - journeymap
+    - just-enough-resources-jer
+    - magneticraft
+    - metalchests
+    - mob-grinding-utils
+    - modtweaker
+    - more-overlays
+    - morpheus
+    - morph-o-tool
+    - mouse-tweaks
+    - mrcrayfish-furniture-mod
+    - mrcrayfishs-vehicle-mod
+    - natura
+    - nuclearcraft-mod
+    - open-terrain-generator
+    - pams-harvestcraft
+    - plants
+    - psi
+    - quark
+    - random-things
+    - randomtweaks
+    - ranged-pumps
+    - rarmor
+    - refined-storage
+    - refined-storage-addons
+    - resource-loader
+    - rewired
+    - roboticparts
+    - signals
+    - simple-storage-network
+    - simple-underground-biomes
+    - simpleharvest
+    - simply-jetpacks-2
+    - solar-flux-reborn
+    - statues
+    - steves-carts-reborn
+    - storage-drawers
+    - storage-drawers-extras
+    - storage-tech
+    - streams
+    - toast-control
+    - tumat
+    - unidict
+    - vampirism-become-a-vampire
+    - woot
+    - worse-barrels
+    - xnet
+    - zetta-industries
+    
