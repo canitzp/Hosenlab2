@@ -1,0 +1,27 @@
+{ 
+  "id": "hosenlab2",
+  "title": "Hosenlab2",
+  "version": "1.0.0",
+  "authors": [ 
+    "canitzp"
+  ],
+  "mcVersion": "1.12.2",
+  "forge": 2750,
+  "launch": { 
+    "flags": [ 
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  },
+  "userFiles": { 
+    "include": [ 
+      "options.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude": [ 
+      ]
+  },
+  "localDir": "local",
+  "sourceDir": "src",
+  "features": [ 
+    ]
+}

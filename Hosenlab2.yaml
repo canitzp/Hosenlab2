@@ -44,9 +44,10 @@ root:
     - extra-utilities
     - farming-for-blockheads
     - fastworkbench
-    - floodlights
     - foamfix-for-minecraft
     - forestry
+    -   id: hardcore-questing-mode
+        curseReleaseTypes: [alpha, beta, release]
     - industrial-craft
     - industrial-foregoing
     - inventory-pets
@@ -80,6 +81,7 @@ root:
     - randomtweaks
     - ranged-pumps
     - rarmor
+    - redstone-flux
     - refined-storage
     - refined-storage-addons
     - resource-loader
