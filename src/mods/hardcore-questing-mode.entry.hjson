@@ -8,7 +8,7 @@
   ],
   "curseReleaseTypes": [ 
     "RELEASE",
-    "ALPHA",
-    "BETA"
+    "BETA",
+    "ALPHA"
   ]
 }

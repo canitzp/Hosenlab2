@@ -1,6 +1,6 @@
 { 
   "provider": "CURSE",
-  "id": "plants",
+  "id": "thaumic-grid",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

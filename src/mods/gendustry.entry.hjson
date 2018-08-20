@@ -1,6 +1,6 @@
 { 
   "provider": "CURSE",
-  "id": "open-terrain-generator",
+  "id": "gendustry",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

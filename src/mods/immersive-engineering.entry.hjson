@@ -1,6 +1,6 @@
 { 
   "provider": "CURSE",
-  "id": "biome-bundle",
+  "id": "immersive-engineering",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

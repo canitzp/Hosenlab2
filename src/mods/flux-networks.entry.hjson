@@ -1,6 +1,6 @@
 { 
   "provider": "CURSE",
-  "id": "cyclic",
+  "id": "flux-networks",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

@@ -4,7 +4,7 @@ mcVersion: 1.12.2
 forge: 2750
 authors: 
     - canitzp
-version: 1.0.0
+version: 1.1.0
 sourceDir: src
 root:
     validMcVersions: 
@@ -16,14 +16,12 @@ root:
     provider: CURSE
     entries:
     - actually-additions
-    - animania
     - auto-crafter
     - auto-feeder-helmet
     - autopackager
     - bedrockores
     - better-foliage
     - better-invisibility
-    - biome-bundle
     -   id: binnies-mods
         curseReleaseTypes: [alpha, beta, release]
     - bonsai-trees
@@ -31,23 +29,31 @@ root:
     - charset-crafting
     - charset-storage-tanks
     - chisel
+    - chiseledadditions
     - chisels-bits
+    - climate-control-geographicraft
     - cooking-for-blockheads
     - crafttweaker
     - custom-main-menu
-    - cyclic
     - decocraft2
     - douglas-forest
+    - dttc
+    - dynamictrees
     - ender-io
     - expanded-industry
     - extra-bit-manipulation
     - extra-utilities
     - farming-for-blockheads
     - fastworkbench
+    - flux-networks
     - foamfix-for-minecraft
     - forestry
+    - gendustry
     -   id: hardcore-questing-mode
         curseReleaseTypes: [alpha, beta, release]
+    - immersive-engineering
+    - immersive-petroleum
+    - immersive-tech
     - industrial-craft
     - industrial-foregoing
     - inventory-pets
@@ -59,9 +65,12 @@ root:
     - just-enough-harvestcraft
     - jei-integration
     - journeymap
+    - jurassicraft
     - just-enough-resources-jer
+    - magic-bees
     - magneticraft
     - metalchests
+    - metalworks
     - mob-grinding-utils
     - modtweaker
     - more-overlays
@@ -72,9 +81,7 @@ root:
     - mrcrayfishs-vehicle-mod
     - natura
     - nuclearcraft-mod
-    - open-terrain-generator
     - pams-harvestcraft
-    - plants
     - psi
     - quark
     - random-things
@@ -99,9 +106,12 @@ root:
     - storage-drawers-extras
     - storage-tech
     - streams
+    - thaumic-grid
+    - thaumic-jei
+    - thaumcraft
+    - thaumcraft-6-aspects-for-jei
     - toast-control
     - tumat
-    - unidict
     - vampirism-become-a-vampire
     - woot
     - worse-barrels

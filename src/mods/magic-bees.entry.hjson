@@ -1,14 +1,9 @@
 { 
   "provider": "CURSE",
-  "id": "binnies-mods",
+  "id": "magic-bees",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",
     "1.12.2"
-  ],
-  "curseReleaseTypes": [ 
-    "RELEASE",
-    "BETA",
-    "ALPHA"
   ]
 }
